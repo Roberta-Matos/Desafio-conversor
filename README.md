@@ -1,50 +1,41 @@
-# Desafio Conversor
+# DevClub Convert-Money
 
-Um projeto JavaScript desenvolvido como desafio de programação para práticas de conversão e manipulação de dados.
+Um conversor de moedas simples e intuitivo desenvolvido para o desafio do DevClub.
 
-## 📋 Descrição
+## Descrição
 
-Este projeto apresenta soluções para desafios de conversão, demonstrando conceitos fundamentais de JavaScript e boas práticas de desenvolvimento.
+Este projeto é uma aplicação web que permite converter valores do Real Brasileiro (BRL) para outras moedas como Dólar Americano (USD), Euro (EUR) e Libra Esterlina (GBP). A interface é limpa e fácil de usar, com atualizações em tempo real.
 
-## 🚀 Características
+## Funcionalidades
 
-- ✨ Conversão eficiente de dados
-- 🎯 Código limpo e bem organizado
-- 📦 Estrutura modular
-- 🔧 Fácil de estender e manter
+- Conversão de Real Brasileiro para Dólar, Euro e Libra.
+- Interface responsiva e amigável.
+- Atualização dinâmica da moeda selecionada.
+- Formatação de valores em moeda local.
 
-## 📦 Pré-requisitos
+## Tecnologias Utilizadas
 
-- Navegador web moderno (Chrome, Firefox, Edge, etc.)
+- **HTML5**: Estrutura da página.
+- **CSS3**: Estilização e layout.
+- **JavaScript**: Lógica de conversão e interatividade.
 
-## 💻 Instalação
+## Como Executar
 
-1. Clone o repositório:
-```bash
-git clone https://github.com/Roberta-Matos/Desafio-conversor.git
-cd Desafio-conversor
-```
+1. Clone ou baixe o repositório.
+2. Abra o arquivo `index.html` em um navegador web.
+3. Insira o valor em Reais, selecione a moeda de destino e clique em "Converter".
 
-2. Abra o arquivo `index.html` no seu navegador.
+## Estrutura do Projeto
 
-## 🚀 Como Usar
+- `index.html`: Página principal da aplicação.
+- `style.css`: Arquivo de estilos CSS.
+- `script.js`: Lógica JavaScript para conversão.
+- `assets/`: Pasta com imagens e ícones utilizados.
 
-1. Selecione a moeda de destino no dropdown "Converter para".
-2. Digite o valor em Reais no campo "Valor".
-3. Clique no botão "Converter" para ver o resultado.
+## Contribuição
 
-O conversor suporta conversão de Real Brasileiro (BRL) para Dólar Americano (USD), Euro (EUR) e Libra Esterlina (GBP).
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
 
-## 🛠️ Tecnologias Utilizadas
+## Licença
 
-- **HTML5**: Estrutura da página
-- **CSS3**: Estilização e layout
-- **JavaScript**: Lógica de conversão e interatividade
-
-## 👩‍💻 Autora
-
-Roberta Matos
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto é licenciado sob a MIT License.
