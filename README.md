@@ -15,8 +15,7 @@ Este projeto apresenta soluções para desafios de conversão, demonstrando conc
 
 ## 📦 Pré-requisitos
 
-- Node.js (versão 14.0 ou superior)
-- npm ou yarn
+- Navegador web moderno (Chrome, Firefox, Edge, etc.)
 
 ## 💻 Instalação
 
@@ -24,3 +23,28 @@ Este projeto apresenta soluções para desafios de conversão, demonstrando conc
 ```bash
 git clone https://github.com/Roberta-Matos/Desafio-conversor.git
 cd Desafio-conversor
+```
+
+2. Abra o arquivo `index.html` no seu navegador.
+
+## 🚀 Como Usar
+
+1. Selecione a moeda de destino no dropdown "Converter para".
+2. Digite o valor em Reais no campo "Valor".
+3. Clique no botão "Converter" para ver o resultado.
+
+O conversor suporta conversão de Real Brasileiro (BRL) para Dólar Americano (USD), Euro (EUR) e Libra Esterlina (GBP).
+
+## 🛠️ Tecnologias Utilizadas
+
+- **HTML5**: Estrutura da página
+- **CSS3**: Estilização e layout
+- **JavaScript**: Lógica de conversão e interatividade
+
+## 👩‍💻 Autora
+
+Roberta Matos
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
