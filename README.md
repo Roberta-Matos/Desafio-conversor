@@ -1,22 +1,26 @@
-# Currency Converter Project
+# Desafio Conversor
 
-## Overview
-This project is a simple currency converter that allows users to convert amounts from one currency to another. It supports various currency exchanges and provides real-time conversion rates.
+Um projeto JavaScript desenvolvido como desafio de programação para práticas de conversão e manipulação de dados.
 
-## Features
-- Converts between multiple currencies.
-- Fetches real-time exchange rates.
-- User-friendly interface.
+## 📋 Descrição
 
-## Setup Instructions
-1. Clone the repository using `git clone https://github.com/Roberta-Matos/Desafio-conversor.git`
-2. Navigate to the project directory.
-3. Install the required dependencies.
-4. Run the application.
+Este projeto apresenta soluções para desafios de conversão, demonstrando conceitos fundamentais de JavaScript e boas práticas de desenvolvimento.
 
-## Usage
-- Input the amount and select the currencies you want to convert.
-- Click on the convert button to see the results.
+## 🚀 Características
 
-## License
-This project is licensed under the MIT License.
+- ✨ Conversão eficiente de dados
+- 🎯 Código limpo e bem organizado
+- 📦 Estrutura modular
+- 🔧 Fácil de estender e manter
+
+## 📦 Pré-requisitos
+
+- Node.js (versão 14.0 ou superior)
+- npm ou yarn
+
+## 💻 Instalação
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/Roberta-Matos/Desafio-conversor.git
+cd Desafio-conversor
